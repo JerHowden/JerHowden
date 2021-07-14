@@ -1,21 +1,21 @@
 <h1 align="center">Yo, I'm Jeremiah</h1>
 <h3 align="center">a React Developer with 3 years experience</h3>
 
-- 🔭 I’m currently working on [My personal website](https://github.com/JerHowden/website)
+- 🔭 I’m currently working on [my portfolio site](https://github.com/JerHowden/website)
 
 - 🌱 I’m currently learning **NextJS, TailwindCSS, and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://www.jeremiahhowden.com](https://www.jeremiahhowden.com)
+- 👨‍💻 All of my projects are available on [my website](https://www.jeremiahhowden.com)
 
-- 📝 I regularly write articles on [https://www.jeremiahhowden.com/blog](https://www.jeremiahhowden.com/blog)
+- 📝 Sometimes I write things on [my blog](https://www.jeremiahhowden.com/blog)
 
 - 💬 Ask me about **Invoice, TackleBox, or Active Directory**
 
 - 📫 How to reach me **jeremiahhowden@gmail.com**
 
-- 📄 Know about my experiences [https://www.jeremiahhowden.com/resume](https://www.jeremiahhowden.com/resume)
+- 📄 Know about my experiences on [my resume](https://www.jeremiahhowden.com/resume)
 
-- ⚡ Fun fact **I made Elias**
+- ⚡ Fun fact [I made Elias](https://github.com/Eliascm17)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
