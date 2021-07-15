@@ -3,7 +3,7 @@
 
 - 📫 Reach me at **jeremiahhowden@gmail.com**
 
-- 💬 Ask me about **Invoice, TackleBox, or Active Directory**
+- 💬 Ask me about **Invoice, TackleBox, or Athena**
 
 - 🌱 I’m currently learning **NextJS, TailwindCSS, and TypeScript**
 
