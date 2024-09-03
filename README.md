@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **Optimizers, UI/UX, or TypeScript**
 
-- 🌱 I’m currently learning **NextJS, TailwindCSS, and TypeScript**
+- 🌱 I’m currently learning **NextJS, .NET, and TypeScript**
 
-- 🔭 I’m currently working on [my portfolio site](https://github.com/JerHowden/website)
+- 🔭 I’m currently working on a [vscode extension](https://github.com/JerHowden/version-bumper)
 
 - 👨‍💻 All of my projects are available on [my website](https://www.jeremiahhowden.com)
 
