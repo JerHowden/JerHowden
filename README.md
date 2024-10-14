@@ -15,7 +15,7 @@
   </a>
 </div>
 
-###
+<br clear="both">
 
 ### About Me
 
@@ -23,13 +23,13 @@
 
 ```json
 {
-  "experience": "React developer with over 6 years of professional experience (class components!)",
-  "passion": "I enjoy handling complex workflows and delivering seamless user experiences",
+  "experience": "React developer with >6 years of experience (class components!)",
+  "passion": "I enjoy creating seamless user experiences for complex workflows",
   "previous": "My previous roles include positions at EOG Resources and Novacoast",
-  "current": "I'm currently building a logistics admin dashboard with interactive data",
+  "current": "Currently building a logistics admin dashboard with interactive data",
   "goal": "I take pride in delivering the best possible product to users",
-  "education": "Texas Tech University graduate with a degree in Copmuter Science",
-  "growth": "Open to front-end roles with growth opportunities in leadership, full-stack, and design"
+  "education": "Texas Tech University graduate with a degree in Computer Science",
+  "growth": "Open to frontend roles with growth in leadership, full-stack, and ui/ux"
 }
 ```
 
@@ -74,8 +74,8 @@
 <br clear="both">
 
 <div>
-  <img align="right" src="https://streak-stats.demolab.com?user=JerHowden&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <a href="https://open.spotify.com/user/jeremiahhowden" align="left">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeremiahhowden&count=5&unique=true" alt="Spotify recently played"  />
   </a>
+  <img align="right" src="https://streak-stats.demolab.com?user=JerHowden&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
