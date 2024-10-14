@@ -23,13 +23,13 @@
 
 ```json
 {
-  "experience": "I'm a React developer with over 6 years of professional experience (class components!)",
+  "experience": "React developer with over 6 years of professional experience (class components!)",
   "passion": "I enjoy handling complex workflows and delivering seamless user experiences",
   "previous": "My previous roles include positions at EOG Resources and Novacoast",
   "current": "I'm currently building a logistics admin dashboard with interactive data",
   "goal": "I take pride in delivering the best possible product to users",
   "education": "Texas Tech University graduate with a degree in Copmuter Science",
-  "growth": "Looking for front-end roles with growth opportunities in leadership, full-stack, and design",
+  "growth": "Open to front-end roles with growth opportunities in leadership, full-stack, and design",
 }
 ```
 
