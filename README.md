@@ -29,7 +29,7 @@
   "current": "I'm currently building a logistics admin dashboard with interactive data",
   "goal": "I take pride in delivering the best possible product to users",
   "education": "Texas Tech University graduate with a degree in Copmuter Science",
-  "growth": "Open to front-end roles with growth opportunities in leadership, full-stack, and design",
+  "growth": "Open to front-end roles with growth opportunities in leadership, full-stack, and design"
 }
 ```
 
