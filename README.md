@@ -19,7 +19,7 @@
 
 ### About Me
 
-<img align="right" height="210" src="https://github.com/JerHowden/JerHowden/blob/main/66200435050__694DA49A-67D4-46BB-8D16-9DA44453BD45.png"  />
+<img align="right" height="187.16" src="https://github.com/JerHowden/JerHowden/blob/main/66200435050__694DA49A-67D4-46BB-8D16-9DA44453BD45.png"  />
 
 ```json
 {
