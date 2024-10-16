@@ -21,7 +21,15 @@
 
 <img align="right" height="187.16" src="https://github.com/JerHowden/JerHowden/blob/main/66200435050__694DA49A-67D4-46BB-8D16-9DA44453BD45.png"  />
 
-```json
+* I am a React Developer with over six years of experience and a [degree in Computer Science](https://www.ttu.edu/).
+* I spent three years working at a [cybersecurity company](https://www.novacoast.com/) and three years at a [Fortune 200 energy company](https://www.eogresources.com/).
+* User experience is my driving force; I strive to provide the best possible product for the people using what I create.
+* I enjoy tackling challenging problems and enjoy collaborating with colleagues to bring solutions to life.
+* I believe there’s often a _"best"_ approach to tackle every challenge, so I strive to be an integral part of the team to understand our objectives and achieve the best outcomes.
+* Currently, I am working on a showcase admin dashboard featuring logistics workflows and interactive data.
+* I am looking for front-end roles that offer growth opportunities in leadership, full-stack development, and design.
+
+<!-- ```json
 {
   "experience": "React developer with >6 years of experience (class components!)",
   "passion": "I enjoy creating seamless user experiences for complex workflows",
@@ -31,7 +39,7 @@
   "education": "Texas Tech University graduate with a degree in Computer Science",
   "growth": "Open to frontend roles with growth in leadership, full-stack, and ui/ux"
 }
-```
+``` -->
 
 <br clear="both">
 
