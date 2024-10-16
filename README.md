@@ -19,7 +19,7 @@
 
 ### About Me
 
-<img align="right" height="187.16" src="https://github.com/JerHowden/JerHowden/blob/main/66200435050__694DA49A-67D4-46BB-8D16-9DA44453BD45.png"  />
+<img align="right" height="200" src="https://github.com/JerHowden/JerHowden/blob/main/me%20and%20dad%20graduation.jpg"  />
 
 * I am a React Developer with over six years of experience and a [degree in Computer Science](https://www.ttu.edu/).
 * I spent three years working at a [cybersecurity company](https://www.novacoast.com/) and three years at a [Fortune 200 energy company](https://www.eogresources.com/).
